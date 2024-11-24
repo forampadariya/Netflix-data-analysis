@@ -22,3 +22,13 @@ Total Ratings: 8803
 Genres: 514 unique genres
 Directors: 6173 directors in the dataset
 Release Range: From 1925 to 2021
+
+Dataset
+The dataset used in this project includes information about movies and TV shows on Netflix. The data covers aspects such as title, genre, ratings, release year, and country of origin.
+
+# Tools and Libraries
+Python: Data processing and analysis.
+Pandas & NumPy: Data wrangling.
+Matplotlib : Visualization.
+Power BI: For dashboard creation.
+Plotly/Dash: For interactive dashboards.
