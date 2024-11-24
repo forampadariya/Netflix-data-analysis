@@ -8,10 +8,9 @@ Genres: Popular genres and the number of titles per genre.
 Release Year: Analysis of movies and TV shows released by year.
 Geographical Distribution: Visualization of total shows by country.
 Movies vs TV Shows: Comparison of the number of movies and TV shows.
-Dashboard
 
+# Dashboard
 The dashboard provides an interactive way to explore Netflix's dataset. It includes:
-
 Ratings by Total Shows.
 Genre Distribution.
 Geographic Visualization of Titles.
