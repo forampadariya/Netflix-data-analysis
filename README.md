@@ -15,3 +15,10 @@ Ratings by Total Shows.
 Genre Distribution.
 Geographic Visualization of Titles.
 Trends in Movie and TV Show Releases.
+
+# Data Insights
+Total Titles: 8807
+Total Ratings: 8803
+Genres: 514 unique genres
+Directors: 6173 directors in the dataset
+Release Range: From 1925 to 2021
